@@ -13,3 +13,4 @@ class Human < Animal
   end
   
 end
+
